@@ -1396,19 +1396,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13ae5cbb74a6a164db28af4bc135b86f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveAccel: 2
-  maxSpeed: 4
-  jumpAccel: 7
-  jumpAmount: 10
-  groundRaycastDistance: 1.2
-  groundLayerMask:
-    serializedVersion: 2
-    m_Bits: 256
-  score: {fileID: 329091275}
-  scoringRatio: 2
-  fallPositionY: -6
-  gameOverScreen: {fileID: 852956281}
-  gameCamera: {fileID: 519420030}
+  moveSpeed: 5
+  jumpforse: 5
 --- !u!114 &1001910460
 MonoBehaviour:
   m_ObjectHideFlags: 0
